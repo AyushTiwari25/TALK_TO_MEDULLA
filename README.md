@@ -149,4 +149,3 @@ This project is licensed under the MIT License.
 ---
 
 ## 🌌 Unleash the Power of AI with MEDULLA.AI 🌌
-```
