@@ -1,0 +1,4 @@
+VS-CODE
+Python==3.0.1 
+openai==0.27.7
+python-dotenv==1.0.0
